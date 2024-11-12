@@ -58,7 +58,7 @@ module.exports = {
   STATUS_REACTION: toBool(process.env.STATUS_REACTION) || false,
   GEMINI: process.env.GEMINI || "null",
   LOG_MSG: toBool(process.env.LOG_MSG) || true,
-  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || 'azam321',
+  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || 'azamkhan321',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || 'HRKU-1e1c86aa-c402-410c-a426-68a6a9175e65',
   BOT_INFO: process.env.BOT_INFO || 'ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://graph.org/file/1506e5842805b0968c5cf.mp4',
   WORK_TYPE: process.env.WORK_TYPE || 'private',
